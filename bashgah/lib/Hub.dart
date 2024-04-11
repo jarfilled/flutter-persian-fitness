@@ -13,7 +13,7 @@ class _MainHubState extends State<MainHub> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('صفحه فرعی111111111111111111111', style: TextStyle(color: sefid)),
+        title: Text('صفحه اصلی', style: TextStyle(color: sefid)),
         backgroundColor: avalie,
         leading: IconButton(
           icon: Icon(Icons.arrow_back, color: sefid),
